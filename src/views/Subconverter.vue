@@ -255,10 +255,10 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-customBackend: {
-          "koyeb": "https://subconver-imkcproxy.koyeb.app//sub?",
-          "heroku": "https://imkcpblogtest.herokuapp.com/sub?",
-        },     
+        backendOptions: [
+          { koyeb: "https://subconver-imkcproxy.koyeb.app/sub?" },
+          { heroku每月25号左右暂停: "https://imkcpblogtest.herokapp.com/sub?" },
+        ],    
         remoteConfig: [
           {
             label: "universal",
