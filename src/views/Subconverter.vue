@@ -256,6 +256,7 @@ export default {
           Surge2: "surge&ver=2",
         },
         backendOptions: [{ value: "https://subconver-imkcproxy.koyeb.app/sub?" }],
+        backendOptions2: [{ value: "https://imkcpblogtest.herokuapp.com/sub?" }],
         remoteConfig: [
           {
             label: "universal",
