@@ -255,8 +255,18 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://subconver-imkcproxy.koyeb.app/sub?" }],
-        backendOptions2: [{ value: "https://imkcpblogtest.herokuapp.com/sub?" }],
+        backendOptions: [
+          { value: "https://subsc.ednovas.xyz/sub?" },
+          { value: "http://api.tsutsu.cc:520/sub?" },
+          { value: "https://api2.tsutsu.cc/sub?" },
+          { value: "https://api.v1.mk/sub?" },
+          { value: "https://subcon.dlj.tf/sub?" },
+          { value: "https://api.dler.io/sub?" },
+          { value: "https://api.wcc.best/sub?" },
+          { value: "https://api.hope140.live/sub?" },
+          { value: "https://sub.proxypoolv2.tk/sub?" },
+          { value: "https://sub.id9.cc/sub?" },
+        ],       
         remoteConfig: [
           {
             label: "universal",
