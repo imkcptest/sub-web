@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://subconver-imkcproxy.koyeb.app?" }],
+        backendOptions: [{ value: "https://imkcpblogtest.herokuapp.com?" }],
         remoteConfig: [
           {
             label: "universal",
