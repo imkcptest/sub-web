@@ -261,17 +261,12 @@ export default {
         ],
         remoteConfig: [
           {
-            label: "universal",
+            label: "132",
             options: [
               {
-                label: "No-Urltest",
+                label: "基础无规则",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/universal/no-urltest.ini"
-              },
-              {
-                label: "Urltest",
-                value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/universal/urltest.ini"
               }
             ]
           },
