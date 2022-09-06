@@ -261,13 +261,13 @@ export default {
         ],
         remoteConfig: [
           {
-            label: "132",
+            label: "imkcp",
             options: [
               {
                 label: "基础无规则",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/universal/no-urltest.ini"
-              }
+              },
             ]
           },
           {
